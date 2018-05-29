@@ -9,7 +9,7 @@ class LogVars(object):
         "name": "WOT_EVENT",
         "filename": "events.log",
         "level": logging.INFO,
-        "template": "%(filename)-12s[ln:%(lineno)4d]# %(levelname)-8s [%(asctime)s]  %(message)s"
+        "template": "%(filename)-18s[ln:%(lineno)4d]# %(levelname)-8s [%(asctime)s]  %(message)s"
     }
 
     STAT = {

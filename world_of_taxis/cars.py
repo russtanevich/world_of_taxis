@@ -2,6 +2,7 @@
 """Vehicles module"""
 
 import parts as prt
+import fuels as fu
 
 
 class Car(object):
@@ -11,7 +12,6 @@ class Car(object):
 
         engine = engine if engine else prt.ICEngine()
         tank = tank if tank else prt.Tank()
-
         assert price > 0
         assert isinstance(tank, prt.Tank)
         assert isinstance(engine, prt.Engine)
@@ -27,7 +27,6 @@ class Car(object):
 
         self._owner = owner
         self._last_overhaul_distance = 0
-
 
     @property
     def origin_price(self):
@@ -79,10 +78,12 @@ class Car(object):
 
     @property
     def fuel_consumption(self):
-        return self.engine.consumption * (1 + self.engine.consumption_up * self.after_overhaul_distance)
+        return round(self.engine.consumption * (1 + self.engine.consumption_up * self.after_overhaul_distance), 3)
 
     def run(self, distance):
+        fuel_need = self.fuel_consumption * distance / 100
         self._tachograph.run(distance)
+        self.tank.spend(fuel_need)
 
     def refuel(self, fuel_station):
         fuel_station.refuel(self)
@@ -103,7 +104,7 @@ class Car(object):
                     type(self).__name__,
                     id(self),
                     self.price,
-                    self.fuel.__name__,
+                    self.engine,
                     self.tank.level,
                     self.tank.volume,
                     self.fuel_consumption,
@@ -112,4 +113,5 @@ class Car(object):
 
     def __repr__(self):
         return str(self)
+
 

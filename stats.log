@@ -1,90 +1,200 @@
-[2018-05-29 20:05:54,364]  <Car #86872176 $0.0 type 60L 80008.0L/100km 1000000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x05250DB0>, refuel: <world_of_taxies.parts.Tank object at 0x05250990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:05:54,364]  <Car #86872240 $0.0 type 60L 80008.0L/100km 1000000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x05250DB0>, refuel: <world_of_taxies.parts.Tank object at 0x05250990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:05:54,364]  <Car #86872304 $0.0 type 60L 80008.0L/100km 1000000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x05250DB0>, refuel: <world_of_taxies.parts.Tank object at 0x05250990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:05:54,395]  <Car #86872368 $0.0 type 60L 80008.0L/100km 1000000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x05250DB0>, refuel: <world_of_taxies.parts.Tank object at 0x05250990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:05:54,395]  <Car #86872432 $0.0 type 60L 80008.0L/100km 1000000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x05250DB0>, refuel: <world_of_taxies.parts.Tank object at 0x05250990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:07:13,395]  <Car #75731056 $9900.0 type 60L 808.0L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x047B0DB0>, refuel: <world_of_taxies.parts.Tank object at 0x047B0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:07:13,427]  <Car #75731120 $9900.0 type 60L 808.0L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x047B0DB0>, refuel: <world_of_taxies.parts.Tank object at 0x047B0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:07:13,427]  <Car #75731184 $9900.0 type 60L 808.0L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x047B0DB0>, refuel: <world_of_taxies.parts.Tank object at 0x047B0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:07:13,427]  <Car #75731248 $9900.0 type 60L 808.0L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x047B0DB0>, refuel: <world_of_taxies.parts.Tank object at 0x047B0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:07:13,427]  <Car #75731312 $9900.0 type 60L 808.0L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x047B0DB0>, refuel: <world_of_taxies.parts.Tank object at 0x047B0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:08:02,753]  <Car #71798896 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043F0850>, refuel: <world_of_taxies.parts.Tank object at 0x043F0ED0> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:08:02,785]  <Car #71798960 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043F0850>, refuel: <world_of_taxies.parts.Tank object at 0x043F0ED0> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:08:02,785]  <Car #71799024 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043F0850>, refuel: <world_of_taxies.parts.Tank object at 0x043F0ED0> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:08:02,785]  <Car #71799088 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043F0850>, refuel: <world_of_taxies.parts.Tank object at 0x043F0ED0> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:08:02,785]  <Car #71799152 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043F0850>, refuel: <world_of_taxies.parts.Tank object at 0x043F0ED0> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:10:47,224]  <Car #78942320 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x04B49210>, refuel: <world_of_taxies.parts.Tank object at 0x04AC0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:10:47,256]  <Car #78942384 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x04B49230>, refuel: <world_of_taxies.parts.Tank object at 0x04AC0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:10:47,256]  <Car #78942448 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x04B49250>, refuel: <world_of_taxies.parts.Tank object at 0x04AC0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:10:47,256]  <Car #78942512 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x04B49270>, refuel: <world_of_taxies.parts.Tank object at 0x04AC0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:10:47,256]  <Car #78942576 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x04B49290>, refuel: <world_of_taxies.parts.Tank object at 0x04AC0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:13:39,842]  <Car #71143536 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043D9210>, refuel: <world_of_taxies.parts.Tank object at 0x0435F990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:13:39,872]  <Car #71143600 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043D9230>, refuel: <world_of_taxies.parts.Tank object at 0x0435F990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:13:39,872]  <Car #71143664 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043D9250>, refuel: <world_of_taxies.parts.Tank object at 0x0435F990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:13:39,872]  <Car #71143728 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043D9270>, refuel: <world_of_taxies.parts.Tank object at 0x0435F990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:13:39,872]  <Car #71143792 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043D9290>, refuel: <world_of_taxies.parts.Tank object at 0x0435F990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
-[2018-05-29 20:14:32,832]  <Car #72851536 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
-[2018-05-29 20:14:32,848]  <Car #72851600 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
-[2018-05-29 20:14:32,848]  <Car #72851664 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
-[2018-05-29 20:14:32,848]  <Car #72851728 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
-[2018-05-29 20:14:32,848]  <Car #72851792 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
-[2018-05-29 20:15:12,565]  <Car #82030672 $9900.0 type 60L 8.0L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
-[2018-05-29 20:15:12,595]  <Car #82030736 $9900.0 type 60L 8.0L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
-[2018-05-29 20:15:12,595]  <Car #82030800 $9900.0 type 60L 8.0L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
-[2018-05-29 20:15:12,595]  <Car #82030864 $9900.0 type 60L 8.0L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
-[2018-05-29 20:15:12,595]  <Car #82030928 $9900.0 type 60L 8.0L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
-[2018-05-29 20:15:33,598]  <Car #73900112 $9800.0 type 60L 8.8L/100km 20000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 10000km
-[2018-05-29 20:15:33,630]  <Car #73900176 $9800.0 type 60L 8.8L/100km 20000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 10000km
-[2018-05-29 20:15:33,630]  <Car #73900240 $9800.0 type 60L 8.8L/100km 20000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 10000km
-[2018-05-29 20:15:33,630]  <Car #73900304 $9800.0 type 60L 8.8L/100km 20000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 10000km
-[2018-05-29 20:15:33,630]  <Car #73900368 $9800.0 type 60L 8.8L/100km 20000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 10000km
-[2018-05-29 20:16:17,267]  <Car #76718160 $9800.0 type 60L 8.8L/100km 20000km>
-[2018-05-29 20:16:17,299]  <Car #76718224 $9800.0 type 60L 8.8L/100km 20000km>
-[2018-05-29 20:16:17,299]  <Car #76718288 $9800.0 type 60L 8.8L/100km 20000km>
-[2018-05-29 20:16:17,299]  <Car #76718352 $9800.0 type 60L 8.8L/100km 20000km>
-[2018-05-29 20:16:17,299]  <Car #76718416 $9800.0 type 60L 8.8L/100km 20000km>
-[2018-05-29 20:17:27,484]  <Car #74100816 $9800.0 type 0/60L 8.8L/100km 20000km>
-[2018-05-29 20:17:27,516]  <Car #74100880 $9800.0 type 0/60L 8.8L/100km 20000km>
-[2018-05-29 20:17:27,516]  <Car #74100944 $9800.0 type 0/60L 8.8L/100km 20000km>
-[2018-05-29 20:17:27,516]  <Car #74101008 $9800.0 type 0/60L 8.8L/100km 20000km>
-[2018-05-29 20:17:27,516]  <Car #74101072 $9800.0 type 0/60L 8.8L/100km 20000km>
-[2018-05-29 20:18:03,073]  <Car #84455504 $9800.0 Diesel 0/60L 8.8L/100km 20000km>
-[2018-05-29 20:18:03,137]  <Car #84455568 $9800.0 Diesel 0/60L 8.8L/100km 20000km>
-[2018-05-29 20:18:03,137]  <Car #84455632 $9800.0 Diesel 0/60L 8.8L/100km 20000km>
-[2018-05-29 20:18:03,151]  <Car #84455696 $9800.0 Diesel 0/60L 8.8L/100km 20000km>
-[2018-05-29 20:18:03,151]  <Car #84455760 $9800.0 Diesel 0/60L 8.8L/100km 20000km>
-[2018-05-29 20:23:29,260]  <Car #71917680 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
-[2018-05-29 20:23:29,292]  <Car #71917744 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
-[2018-05-29 20:23:29,292]  <Car #71917808 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
-[2018-05-29 20:23:29,292]  <Car #71917872 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
-[2018-05-29 20:23:29,292]  <Car #71917936 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
-[2018-05-29 20:26:05,776]  <Car #79204528 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04B009F0>
-[2018-05-29 20:26:05,801]  <Car #79204592 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04B009F0>
-[2018-05-29 20:26:05,802]  <Car #79204656 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04B009F0>
-[2018-05-29 20:26:05,803]  <Car #79204720 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04B009F0>
-[2018-05-29 20:26:05,803]  <Car #79204784 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04B009F0>
-[2018-05-29 20:27:01,411]  <Car #81236176 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04CF0A10>. <world_of_taxies.parts.ICEngine object at 0x04D792B0>
-[2018-05-29 20:27:01,426]  <Car #81236240 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04CF0A10>. <world_of_taxies.parts.ICEngine object at 0x04D792D0>
-[2018-05-29 20:27:01,426]  <Car #81236304 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04CF0A10>. <world_of_taxies.parts.ICEngine object at 0x04D792F0>
-[2018-05-29 20:27:01,426]  <Car #81236368 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04CF0A10>. <world_of_taxies.parts.ICEngine object at 0x04D79310>
-[2018-05-29 20:27:01,426]  <Car #81236432 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04CF0A10>. <world_of_taxies.parts.ICEngine object at 0x04D79330>
-[2018-05-29 20:29:22,677]  <Car #75346128 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04760A10>. <world_of_taxies.parts.ICEngine object at 0x047DB2B0>
-[2018-05-29 20:29:22,709]  <Car #75346192 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04760A10>. <world_of_taxies.parts.ICEngine object at 0x047DB2D0>
-[2018-05-29 20:29:22,709]  <Car #75346256 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04760A10>. <world_of_taxies.parts.ICEngine object at 0x047DB2F0>
-[2018-05-29 20:29:22,709]  <Car #75346320 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04760A10>. <world_of_taxies.parts.ICEngine object at 0x047DB310>
-[2018-05-29 20:29:22,709]  <Car #75346384 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04760A10>. <world_of_taxies.parts.ICEngine object at 0x047DB330>
-[2018-05-29 20:29:34,141]  <Car #77508816 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04970A10>. <world_of_taxies.parts.ICEngine object at 0x049EB2B0>
-[2018-05-29 20:29:34,171]  <Car #77508880 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04970A10>. <world_of_taxies.parts.ICEngine object at 0x049EB2D0>
-[2018-05-29 20:29:34,171]  <Car #77508944 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04970A10>. <world_of_taxies.parts.ICEngine object at 0x049EB2F0>
-[2018-05-29 20:29:34,171]  <Car #77509008 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04970A10>. <world_of_taxies.parts.ICEngine object at 0x049EB310>
-[2018-05-29 20:29:34,171]  <Car #77509072 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04970A10>. <world_of_taxies.parts.ICEngine object at 0x049EB330>
-[2018-05-29 20:34:18,592]  <Car #72724624 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B0D0>. <world_of_taxies.parts.ICEngine object at 0x0455B3B0>
-[2018-05-29 20:34:18,622]  <Car #72724752 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B150>. <world_of_taxies.parts.ICEngine object at 0x0455B0B0>
-[2018-05-29 20:34:18,622]  <Car #72724880 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B1D0>. <world_of_taxies.parts.ICEngine object at 0x0455B130>
-[2018-05-29 20:34:18,622]  <Car #72725008 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B250>. <world_of_taxies.parts.ICEngine object at 0x0455B1B0>
-[2018-05-29 20:34:18,622]  <Car #72725136 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B2D0>. <world_of_taxies.parts.ICEngine object at 0x0455B230>
-[2018-05-29 20:38:42,082]  <Car #75853936 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
-[2018-05-29 20:38:42,114]  <Car #75854064 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
-[2018-05-29 20:38:42,114]  <Car #75854192 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
-[2018-05-29 20:38:42,114]  <Car #75854320 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
-[2018-05-29 20:38:42,114]  <Car #75854448 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
+[2018-05-30 02:33:40,818]  <Cub #73515664 $9429.354 ICEngine AI95 5.398/60L 12.805L/100km 60068.0km>
+[2018-05-30 02:33:40,819]  <Cub #73515792 $7319.9455 ICEngine AI95 33.623/60L 14.569L/100km 282111.0km>
+[2018-05-30 02:33:40,819]  <Cub #73515920 $9006.805 ICEngine Diesel 0.49/60L 11.675L/100km 94590.0km>
+[2018-05-30 02:33:40,819]  <Cub #73516048 $9142.9765 ICEngine AI95 46.881/60L 15.217L/100km 90213.0km>
+[2018-05-30 02:33:40,819]  <Cub #73516176 $8587.502 ICEngine AI92 73.045/75L 11.895L/100km 148684.0km>
+[2018-05-30 02:33:40,819]  <Cub #73516304 $7170.0085 ICEngine Diesel 24.147/60L 13.171L/100km 269523.0km>
+[2018-05-30 02:33:40,819]  <Cub #73516432 $8345.7175 ICEngine AI95 8.13/60L 13.931L/100km 174135.0km>
+[2018-05-30 02:33:40,819]  <Cub #73516560 $8886.372 ICEngine AI92 28.865/60L 9.378L/100km 117224.0km>
+[2018-05-30 02:33:40,845]  <Cub #73516688 $9343.4245 ICEngine Diesel 9.732/60L 9.752L/100km 62531.0km>
+[2018-05-30 02:33:40,845]  <Cub #73516816 $8712.351 ICEngine AI92 63.662/75L 10.843L/100km 135542.0km>
+[2018-05-30 02:33:40,845]  <Cub #73516944 $8680.203 ICEngine AI92 30.395/60L 11.114L/100km 138926.0km>
+[2018-05-30 02:33:40,845]  <Cub #73517072 $7401.7435 ICEngine Diesel 21.756/60L 11.847L/100km 247453.0km>
+[2018-05-30 02:33:40,846]  <Cub #73517200 $9276.3185 ICEngine AI95 1.647/60L 14.094L/100km 76177.0km>
+[2018-05-30 02:33:40,846]  <Cub #73517328 $7382.94 ICEngine AI95 20.983/60L 14.038L/100km 275480.0km>
+[2018-05-30 02:33:40,848]  <Cub #73517456 $9001.912 ICEngine Diesel 11.079/75L 11.703L/100km 95056.0km>
+[2018-05-30 02:33:40,848]  <Cub #73517584 $9033.641 ICEngine AI92 2.279/60L 8.138L/100km 101722.0km>
+[2018-05-30 02:33:40,848]  <Cub #73517712 $9394.679 ICEngine AI95 13.339/60L 13.097L/100km 63718.0km>
+[2018-05-30 02:33:40,848]  <Cub #73517840 $8036.1955 ICEngine Diesel 13.97/60L 8.222L/100km 187029.0km>
+[2018-05-30 02:33:40,849]  <Cub #73517968 $9028.758 ICEngine AI92 20.456/60L 8.179L/100km 102236.0km>
+[2018-05-30 02:33:40,849]  <Cub #73518096 $9461.939 ICEngine AI95 52.594/75L 12.531L/100km 56638.0km>
+[2018-05-30 02:33:40,851]  <Cub #73518224 $9031.9735 ICEngine Diesel 38.237/60L 11.532L/100km 92193.0km>
+[2018-05-30 02:33:40,851]  <Cub #73518352 $7820.301 ICEngine AI92 47.098/60L 10.355L/100km 229442.0km>
+[2018-05-30 02:33:40,851]  <Cub #73518480 $8750.1705 ICEngine AI92 45.616/60L 10.525L/100km 131561.0km>
+[2018-05-30 02:33:40,851]  <Cub #73518608 $7220.23 ICEngine Diesel 46.616/60L 12.884L/100km 264740.0km>
+[2018-05-30 02:33:40,851]  <Cub #73518736 $7879.9135 ICEngine AI92 16.597/75L 9.853L/100km 223167.0km>
+[2018-05-30 02:33:40,852]  <Cub #73518864 $8231.1285 ICEngine AI95 11.607/60L 14.896L/100km 186197.0km>
+[2018-05-30 02:33:40,852]  <Cub #73518992 $7416.853 ICEngine Diesel 11.403/60L 11.761L/100km 246014.0km>
+[2018-05-30 02:33:40,855]  <Cub #73547824 $7601.4875 ICEngine AI95 34.604/60L 12.198L/100km 252475.0km>
+[2018-05-30 02:33:40,855]  <Cub #73547952 $9075.3745 ICEngine AI95 24.875/60L 15.786L/100km 97329.0km>
+[2018-05-30 02:33:40,855]  <Cub #73548080 $7671.9715 ICEngine Diesel 58.624/75L 10.303L/100km 221717.0km>
+[2018-05-30 02:33:40,855]  <Cub #73548208 $9158.167 ICEngine AI95 48.928/60L 15.089L/100km 88614.0km>
+[2018-05-30 02:33:40,857]  <Cub #73548336 $8258.232 ICEngine AI95 12.861/60L 14.668L/100km 183344.0km>
+[2018-05-30 02:33:40,857]  <Cub #73548464 $7962.7585 ICEngine Diesel 25.757/60L 8.641L/100km 194023.0km>
+[2018-05-30 02:33:40,858]  <Cub #73548592 $8989.371 ICEngine AI92 35.675/60L 8.511L/100km 106382.0km>
+[2018-05-30 02:33:40,858]  <Cub #73548720 $8304.763 ICEngine AI95 10.431/75L 14.276L/100km 178446.0km>
+[2018-05-30 02:33:40,858]  <Cub #73548848 $7386.319 ICEngine Diesel 27.293/60L 11.935L/100km 248922.0km>
+[2018-05-30 02:33:40,858]  <Cub #73548976 $7879.391 ICEngine AI92 14.238/60L 9.858L/100km 223222.0km>
+[2018-05-30 02:33:40,858]  <Cub #73549104 $9415.275 ICEngine AI95 55.019/60L 12.924L/100km 61550.0km>
+[2018-05-30 02:33:40,858]  <Cub #73549232 $7404.1375 ICEngine Diesel 48.724/60L 11.834L/100km 247225.0km>
+[2018-05-30 02:33:40,859]  <Cub #73549360 $7946.936 ICEngine AI92 14.625/75L 9.289L/100km 216112.0km>
+[2018-05-30 02:33:40,859]  <Cub #73549488 $8126.0965 ICEngine AI95 57.585/60L 15.78L/100km 197253.0km>
+[2018-05-30 02:33:40,861]  <Cub #73549616 $7292.6485 ICEngine Diesel 19.996/60L 12.471L/100km 257843.0km>
+[2018-05-30 02:33:40,861]  <Cub #73549744 $8462.1115 ICEngine AI95 32.688/60L 12.951L/100km 161883.0km>
+[2018-05-30 02:33:40,861]  <Cub #73549872 $7863.165 ICEngine AI92 25.11/60L 9.994L/100km 224930.0km>
+[2018-05-30 02:33:40,861]  <Cub #73550000 $7175.773 ICEngine Diesel 3.908/75L 13.138L/100km 268974.0km>
+[2018-05-30 02:33:40,861]  <Cub #73550128 $8205.5545 ICEngine AI95 28.147/60L 15.111L/100km 188889.0km>
+[2018-05-30 02:33:40,861]  <Cub #73550256 $8224.07 ICEngine AI95 20.826/60L 14.955L/100km 186940.0km>
+[2018-05-30 02:33:40,861]  <Cub #73550384 $7869.6235 ICEngine Diesel 17.475/60L 9.174L/100km 202893.0km>
+[2018-05-30 02:33:40,862]  <Cub #73550512 $8628.238 ICEngine AI92 11.665/60L 11.552L/100km 144396.0km>
+[2018-05-30 02:33:40,862]  <Cub #73550640 $8619.175 ICEngine AI92 14.297/75L 11.628L/100km 145350.0km>
+[2018-05-30 02:33:40,864]  <Cub #73550768 $7844.812 ICEngine Diesel 39.491/60L 9.315L/100km 205256.0km>
+[2018-05-30 02:33:40,864]  <Cub #73550896 $7860.011 ICEngine AI92 51.984/60L 10.021L/100km 225262.0km>
+[2018-05-30 02:33:40,865]  <Cub #73551024 $7468.1265 ICEngine AI95 46.076/60L 13.321L/100km 266513.0km>
+[2018-05-30 02:33:40,865]  <Cub #73551152 $7927.4785 ICEngine Diesel 32.72/60L 8.843L/100km 197383.0km>
+[2018-05-30 02:33:40,865]  <Cub #73551280 $8780.694 ICEngine AI92 70.995/75L 10.268L/100km 128348.0km>
+[2018-05-30 02:33:40,865]  <Cub #73551408 $8641.5095 ICEngine AI92 51.97/60L 11.44L/100km 142999.0km>
+[2018-05-30 02:33:40,865]  <Cub #73551536 $9364.162 ICEngine Diesel 20.784/60L 9.633L/100km 60556.0km>
+[2018-05-30 02:33:40,865]  <Cub #73551664 $8569.8035 ICEngine AI95 7.208/60L 12.044L/100km 150547.0km>
+[2018-05-30 02:33:40,865]  <Cub #73551792 $7297.326 ICEngine AI95 44.866/60L 14.759L/100km 284492.0km>
+[2018-05-30 02:33:40,865]  <Cub #73621584 $9024.0775 ICEngine Diesel 31.375/75L 11.577L/100km 92945.0km>
+[2018-05-30 02:33:40,867]  <Cub #73621712 $9437.372 ICEngine AI95 53.031/60L 12.738L/100km 59224.0km>
+[2018-05-30 02:33:40,867]  <Cub #73621840 $8630.0905 ICEngine AI92 34.125/60L 11.536L/100km 144201.0km>
+[2018-05-30 02:33:40,867]  <Cub #73621968 $7865.8435 ICEngine Diesel 44.484/60L 9.195L/100km 203253.0km>
+[2018-05-30 02:33:40,868]  <Cub #73622096 $7331.9535 ICEngine AI95 36.923/60L 14.468L/100km 280847.0km>
+[2018-05-30 02:33:40,868]  <Cub #73622224 $7989.3915 ICEngine AI92 45.255/75L 8.931L/100km 211643.0km>
+[2018-05-30 02:33:40,868]  <Cub #73622352 $8952.1525 ICEngine Diesel 45.441/60L 11.988L/100km 99795.0km>
+[2018-05-30 02:33:40,868]  <Cub #73622480 $8677.467 ICEngine AI92 58.441/60L 11.137L/100km 139214.0km>
+[2018-05-30 02:33:40,868]  <Cub #73622608 $8789.4055 ICEngine AI92 52.525/60L 10.194L/100km 127431.0km>
+[2018-05-30 02:33:40,868]  <Cub #73622736 $7518.6295 ICEngine Diesel 41.659/60L 11.179L/100km 236321.0km>
+[2018-05-30 02:33:40,869]  <Cub #73622864 $7479.954 ICEngine AI95 45.262/75L 13.221L/100km 265268.0km>
+[2018-05-30 02:33:40,871]  <Cub #73622992 $7503.3525 ICEngine AI95 53.849/60L 13.024L/100km 262805.0km>
+[2018-05-30 02:33:40,871]  <Cub #73623120 $8394.298 ICEngine Diesel 0.464/60L 6.175L/100km 152924.0km>
+[2018-05-30 02:33:40,871]  <Cub #73623248 $8343.409 ICEngine AI95 34.288/60L 13.95L/100km 174378.0km>
+[2018-05-30 02:33:40,871]  <Cub #73623376 $7510.259 ICEngine AI95 28.179/60L 12.966L/100km 262078.0km>
+[2018-05-30 02:33:40,871]  <Cub #73623504 $8487.391 ICEngine Diesel 14.241/75L 14.643L/100km 144058.0km>
+[2018-05-30 02:33:40,871]  <Cub #73623632 $7312.051 ICEngine AI95 32.419/60L 14.635L/100km 282942.0km>
+[2018-05-30 02:33:40,872]  <Cub #73623760 $8587.502 ICEngine AI92 49.854/60L 11.895L/100km 148684.0km>
+[2018-05-30 02:33:40,872]  <Cub #73623888 $9356.56 ICEngine Diesel 11.027/60L 9.677L/100km 61280.0km>
+[2018-05-30 02:33:40,872]  <Cub #73624016 $8480.6555 ICEngine AI95 43.602/60L 12.794L/100km 159931.0km>
+[2018-05-30 02:33:40,874]  <Cub #73624144 $9413.4225 ICEngine AI95 3.431/75L 12.94L/100km 61745.0km>
+[2018-05-30 02:33:40,874]  <Cub #73624272 $7619.797 ICEngine Diesel 9.342/60L 10.601L/100km 226686.0km>
+[2018-05-30 02:33:40,874]  <Cub #73624400 $8876.739 ICEngine AI92 53.645/60L 9.459L/100km 118238.0km>
+[2018-05-30 02:33:40,875]  <Cub #73624528 $7745.4505 ICEngine AI92 48.146/60L 10.986L/100km 237321.0km>
+[2018-05-30 02:33:40,875]  <Cub #73624656 $8485.0495 ICEngine Diesel 4.956/60L 14.657L/100km 144281.0km>
+[2018-05-30 02:33:40,875]  <Cub #73624784 $8997.6455 ICEngine AI92 24.807/75L 8.441L/100km 105511.0km>
+[2018-05-30 02:33:40,875]  <Cub #73624912 $7797.5675 ICEngine AI92 37.546/60L 10.547L/100km 231835.0km>
+[2018-05-30 02:33:40,875]  <Cub #73625040 $7527.376 ICEngine Diesel 14.441/60L 11.129L/100km 235488.0km>
+[2018-05-30 02:33:40,875]  <Cub #73625168 $8824.1565 ICEngine AI92 59.226/60L 9.902L/100km 123773.0km>
+[2018-05-30 02:33:40,875]  <Cub #73625296 $9267.151 ICEngine AI95 45.42/60L 14.171L/100km 77142.0km>
+[2018-05-30 02:33:40,877]  <Cub #73625424 $9368.257 ICEngine Diesel 46.746/75L 9.61L/100km 60166.0km>
+[2018-05-30 02:33:40,877]  <Cub #73625552 $7656.578 ICEngine AI92 7.404/60L 11.734L/100km 246676.0km>
+[2018-05-30 02:33:40,877]  <Cub #73646192 $8949.2905 ICEngine AI92 30.668/60L 8.848L/100km 110601.0km>
+[2018-05-30 02:33:40,877]  <Cub #73646320 $8194.7035 ICEngine Diesel 43.232/60L 7.316L/100km 171933.0km>
+[2018-05-30 02:33:40,878]  <Cub #73646448 $7752.946 ICEngine AI92 14.397/60L 10.923L/100km 236532.0km>
+[2018-05-30 02:33:40,878]  <Cub #73646576 $8062.8645 ICEngine AI92 34.367/75L 8.313L/100km 203909.0km>
+[2018-05-30 02:33:40,878]  <Cub #73646704 $8152.3675 ICEngine Diesel 44.365/60L 7.558L/100km 175965.0km>
+[2018-05-30 02:33:40,878]  <Cub #73646832 $8050.1345 ICEngine AI92 31.994/60L 8.42L/100km 205249.0km>
+[2018-05-30 02:33:40,878]  <Cub #73646960 $8096.8365 ICEngine AI92 14.848/60L 8.027L/100km 200333.0km>
+[2018-05-30 02:33:40,878]  <Cub #73647088 $9289.801 ICEngine Diesel 44.801/60L 10.058L/100km 67638.0km>
+[2018-05-30 02:33:40,880]  <Cub #73647216 $9125.278 ICEngine AI95 67.18/75L 15.366L/100km 92076.0km>
+[2018-05-30 02:33:40,880]  <Cub #73647344 $8323.535 ICEngine AI95 41.058/60L 14.118L/100km 176470.0km>
+[2018-05-30 02:33:40,880]  <Cub #73647472 $8118.3475 ICEngine Diesel 37.095/60L 7.752L/100km 179205.0km>
+[2018-05-30 02:33:40,880]  <Cub #73647600 $8545.797 ICEngine AI95 0.817/60L 12.246L/100km 153074.0km>
+[2018-05-30 02:33:40,881]  <Cub #73647728 $8982.0275 ICEngine AI92 29.865/60L 8.572L/100km 107155.0km>
+[2018-05-30 02:33:40,881]  <Cub #73647856 $7597.474 ICEngine Diesel 64.061/75L 10.729L/100km 228812.0km>
+[2018-05-30 02:33:40,881]  <Cub #73647984 $8082.6435 ICEngine AI92 14.454/60L 8.146L/100km 201827.0km>
+[2018-05-30 02:33:40,881]  <Cub #73648112 $7412.561 ICEngine AI95 34.271/60L 13.789L/100km 272362.0km>
+[2018-05-30 02:33:40,881]  <Cub #73648240 $7504.969 ICEngine Diesel 15.918/60L 11.257L/100km 237622.0km>
+[2018-05-30 02:33:40,881]  <Cub #73648368 $8408.636 ICEngine AI95 12.056/60L 13.401L/100km 167512.0km>
+[2018-05-30 02:33:40,881]  <Cub #73648496 $8365.069 ICEngine AI95 74.183/75L 13.768L/100km 172098.0km>
+[2018-05-30 02:33:40,882]  <Cub #73648624 $8960.4055 ICEngine Diesel 19.355/60L 11.941L/100km 99009.0km>
+[2018-05-30 02:33:40,882]  <Cub #73648752 $7977.602 ICEngine AI92 27.927/60L 9.031L/100km 212884.0km>
+[2018-05-30 02:33:40,884]  <Cub #73648880 $8099.069 ICEngine AI92 33.648/60L 8.008L/100km 200098.0km>
+[2018-05-30 02:33:40,884]  <Cub #73649008 $8612.4565 ICEngine Diesel 57.723/60L 13.929L/100km 132147.0km>
+[2018-05-30 02:33:40,884]  <Cub #73649136 $8827.795 ICEngine AI92 43.712/75L 9.871L/100km 123390.0km>
+[2018-05-30 02:33:40,884]  <Cub #73649264 $8919.4605 ICEngine AI92 49.758/60L 9.099L/100km 113741.0km>
+[2018-05-30 02:33:40,884]  <Cub #73649392 $7827.508 ICEngine Diesel 5.497/60L 9.414L/100km 206904.0km>
+[2018-05-30 02:33:40,884]  <Cub #73649520 $9312.7035 ICEngine AI95 54.923/60L 13.788L/100km 72347.0km>
+[2018-05-30 02:33:40,884]  <Cub #73649648 $8507.1035 ICEngine AI95 36.173/60L 12.572L/100km 157147.0km>
+[2018-05-30 02:33:40,885]  <Cub #73649776 $8410.384 ICEngine Diesel 25.628/75L 6.084L/100km 151392.0km>
+[2018-05-30 02:33:40,885]  <Cub #73649904 $8935.6675 ICEngine AI92 23.356/60L 8.963L/100km 112035.0km>
+[2018-05-30 02:33:40,885]  <Cub #73650032 $9125.468 ICEngine AI95 5.366/60L 15.364L/100km 92056.0km>
+[2018-05-30 02:33:40,885]  <Cub #73650160 $8383.6825 ICEngine Diesel 58.01/60L 6.236L/100km 153935.0km>
+[2018-05-30 02:33:40,887]  <Cub #73666704 $7390.0935 ICEngine AI95 6.346/60L 13.978L/100km 274727.0km>
+[2018-05-30 02:33:40,887]  <Cub #73666832 $8061.0595 ICEngine AI92 18.648/75L 8.328L/100km 204099.0km>
+[2018-05-30 02:33:40,887]  <Cub #73666960 $7848.592 ICEngine Diesel 12.924/60L 9.294L/100km 204896.0km>
+[2018-05-30 02:33:40,888]  <Cub #73667088 $8303.167 ICEngine AI95 36.899/60L 14.289L/100km 178614.0km>
+[2018-05-30 02:33:40,888]  <Cub #73667216 $8509.8585 ICEngine AI95 12.55/60L 12.549L/100km 156857.0km>
+[2018-05-30 02:33:40,888]  <Cub #73667344 $7364.3635 ICEngine Diesel 16.735/60L 12.061L/100km 251013.0km>
+[2018-05-30 02:33:40,890]  <Cub #73667472 $9111.446 ICEngine AI95 67.887/75L 15.483L/100km 93532.0km>
+[2018-05-30 02:33:40,890]  <Cub #73667600 $9266.277 ICEngine AI95 32.39/60L 14.179L/100km 77234.0km>
+[2018-05-30 02:33:40,891]  <Cub #73667728 $8219.5885 ICEngine Diesel 34.339/60L 7.174L/100km 169563.0km>
+[2018-05-30 02:33:40,891]  <Cub #73667856 $8793.443 ICEngine AI92 35.66/60L 10.16L/100km 127006.0km>
+[2018-05-30 02:33:40,891]  <Cub #73667984 $8701.6445 ICEngine AI92 38.713/60L 10.934L/100km 136669.0km>
+[2018-05-30 02:33:40,891]  <Cub #73668112 $8785.4755 ICEngine Diesel 24.962/75L 12.94L/100km 115669.0km>
+[2018-05-30 02:33:40,891]  <Cub #73668240 $8176.703 ICEngine AI95 46.018/60L 15.354L/100km 191926.0km>
+[2018-05-30 02:33:40,891]  <Cub #73668368 $9276.138 ICEngine AI95 58.973/60L 14.096L/100km 76196.0km>
+[2018-05-30 02:33:40,891]  <Cub #73668496 $7668.349 ICEngine Diesel 12.322/60L 10.324L/100km 222062.0km>
+[2018-05-30 02:33:40,891]  <Cub #73668624 $7444.899 ICEngine AI95 18.416/60L 13.517L/100km 268958.0km>
+[2018-05-30 02:33:40,892]  <Cub #73668752 $7858.0445 ICEngine AI92 13.354/75L 10.038L/100km 225469.0km>
+[2018-05-30 02:33:40,892]  <Cub #73668880 $8835.7285 ICEngine Diesel 1.008/60L 12.653L/100km 110883.0km>
+[2018-05-30 02:33:40,892]  <Cub #73669008 $7410.4235 ICEngine AI95 3.28/60L 13.807L/100km 272587.0km>
+[2018-05-30 02:33:40,894]  <Cub #73669136 $8882.211 ICEngine AI92 47.841/60L 9.413L/100km 117662.0km>
+[2018-05-30 02:33:40,894]  <Cub #73669264 $7281.046 ICEngine Diesel 2.004/60L 12.537L/100km 258948.0km>
+[2018-05-30 02:33:40,894]  <Cub #73669392 $8167.241 ICEngine AI95 37.978/75L 15.434L/100km 192922.0km>
+[2018-05-30 02:33:40,894]  <Cub #73669520 $7436.634 ICEngine AI95 20.67/60L 13.586L/100km 269828.0km>
+[2018-05-30 02:33:40,894]  <Cub #73669648 $8853.148 ICEngine Diesel 29.842/60L 12.553L/100km 109224.0km>
+[2018-05-30 02:33:40,894]  <Cub #73669776 $7394.0265 ICEngine AI95 4.077/60L 13.945L/100km 274313.0km>
+[2018-05-30 02:33:40,894]  <Cub #73669904 $8565.9465 ICEngine AI95 18.314/60L 12.076L/100km 150953.0km>
+[2018-05-30 02:33:40,895]  <Cub #73670032 $7219.1275 ICEngine Diesel 15.552/75L 12.891L/100km 264845.0km>
+[2018-05-30 02:33:40,895]  <Cub #73670160 $8376.6305 ICEngine AI95 36.629/60L 13.67L/100km 170881.0km>
+[2018-05-30 02:33:40,895]  <Cub #73670288 $8593.962 ICEngine AI92 10.414/60L 11.84L/100km 148004.0km>
+[2018-05-30 02:33:40,895]  <Cub #73670416 $9122.389 ICEngine Diesel 47.597/60L 11.015L/100km 83582.0km>
+[2018-05-30 02:33:40,897]  <Cub #73670544 $9409.822 ICEngine AI95 40.798/60L 12.97L/100km 62124.0km>
+[2018-05-30 02:33:40,897]  <Cub #73691184 $9077.018 ICEngine AI95 27.229/75L 15.772L/100km 97156.0km>
+[2018-05-30 02:33:40,897]  <Cub #73691312 $9148.849 ICEngine Diesel 22.836/60L 10.864L/100km 81062.0km>
+[2018-05-30 02:33:40,898]  <Cub #73691440 $8367.824 ICEngine AI95 29.721/60L 13.745L/100km 171808.0km>
+[2018-05-30 02:33:40,898]  <Cub #73691568 $7368.7945 ICEngine AI95 51.324/60L 14.158L/100km 276969.0km>
+[2018-05-30 02:33:40,898]  <Cub #73691696 $8419.246 ICEngine Diesel 24.737/60L 6.033L/100km 150548.0km>
+[2018-05-30 02:33:40,898]  <Cub #73691824 $9341.954 ICEngine AI95 59.044/75L 13.541L/100km 69268.0km>
+[2018-05-30 02:33:40,898]  <Cub #73691952 $8470.101 ICEngine AI95 21.167/60L 12.883L/100km 161042.0km>
+[2018-05-30 02:33:40,898]  <Cub #73692080 $8393.878 ICEngine Diesel 57.998/60L 6.178L/100km 152964.0km>
+[2018-05-30 02:33:40,898]  <Cub #73692208 $8729.2705 ICEngine AI92 52.641/60L 10.701L/100km 133761.0km>
+[2018-05-30 02:33:40,900]  <Cub #73692336 $8034.5165 ICEngine AI92 12.978/60L 8.551L/100km 206893.0km>
+[2018-05-30 02:33:40,900]  <Cub #73692464 $9312.544 ICEngine Diesel 54.631/75L 9.928L/100km 65472.0km>
+[2018-05-30 02:33:40,900]  <Cub #73692592 $8097.378 ICEngine AI92 19.408/60L 8.022L/100km 200276.0km>
+[2018-05-30 02:33:40,901]  <Cub #73692720 $8596.9165 ICEngine AI92 47.134/60L 11.815L/100km 147693.0km>
+[2018-05-30 02:33:40,901]  <Cub #73692848 $7483.549 ICEngine Diesel 25.339/60L 11.38L/100km 239662.0km>
+[2018-05-30 02:33:40,901]  <Cub #73692976 $7813.48 ICEngine AI92 32.698/60L 10.413L/100km 230160.0km>
+[2018-05-30 02:33:40,901]  <Cub #73693104 $8484.731 ICEngine AI95 17.051/75L 12.76L/100km 159502.0km>
+[2018-05-30 02:33:40,901]  <Cub #73693232 $9235.6315 ICEngine Diesel 58.844/60L 10.368L/100km 72797.0km>
+[2018-05-30 02:33:40,901]  <Cub #73693360 $7300.3375 ICEngine AI95 31.558/60L 14.734L/100km 284175.0km>
+[2018-05-30 02:33:40,901]  <Cub #73693488 $8810.467 ICEngine AI92 36.025/60L 10.017L/100km 125214.0km>
+[2018-05-30 02:33:40,903]  <Cub #73693616 $9379.051 ICEngine Diesel 36.51/60L 9.548L/100km 59138.0km>
+[2018-05-30 02:33:40,903]  <Cub #73693744 $8214.513 ICEngine AI95 45.079/75L 15.036L/100km 187946.0km>
+[2018-05-30 02:33:40,903]  <Cub #73693872 $9313.6535 ICEngine AI95 8.686/60L 13.78L/100km 72247.0km>
+[2018-05-30 02:33:40,903]  <Cub #73694000 $8308.4185 ICEngine Diesel 17.558/60L 6.666L/100km 161103.0km>
+[2018-05-30 02:33:40,904]  <Cub #73694128 $8247.5445 ICEngine AI95 27.522/60L 14.758L/100km 184469.0km>
+[2018-05-30 02:33:40,904]  <Cub #73694256 $8673.7525 ICEngine AI92 14.9/60L 11.168L/100km 139605.0km>
+[2018-05-30 02:33:40,904]  <Cub #73694384 $9089.314 ICEngine Diesel 62.841/75L 11.204L/100km 86732.0km>
+[2018-05-30 02:33:40,904]  <Cub #73694512 $9438.5785 ICEngine AI95 9.176/60L 12.728L/100km 59097.0km>
+[2018-05-30 02:33:40,904]  <Cub #73694640 $8063.178 ICEngine AI92 26.452/60L 8.31L/100km 203876.0km>
+[2018-05-30 02:33:40,904]  <Cub #73694768 $9304.795 ICEngine Diesel 7.57/60L 9.973L/100km 66210.0km>
+[2018-05-30 02:33:40,905]  <Cub #73694896 $8246.699 ICEngine AI95 14.404/60L 14.765L/100km 184558.0km>
+[2018-05-30 02:33:40,905]  <Cub #73695024 $7627.508 ICEngine AI92 48.657/75L 11.979L/100km 249736.0km>
+[2018-05-30 02:33:40,907]  <Cub #73695152 $8873.791 ICEngine Diesel 35.196/60L 12.435L/100km 107258.0km>
+[2018-05-30 02:33:40,907]  <Cub #73711696 $9123.3495 ICEngine AI95 31.109/60L 15.382L/100km 92279.0km>
+[2018-05-30 02:33:40,907]  <Cub #73711824 $7572.4555 ICEngine AI95 18.699/60L 12.442L/100km 255531.0km>
+[2018-05-30 02:33:40,907]  <Cub #73711952 $8803.84 ICEngine Diesel 34.386/60L 12.835L/100km 113920.0km>
+[2018-05-30 02:33:40,907]  <Cub #73712080 $7473.8075 ICEngine AI95 34.699/75L 13.273L/100km 265915.0km>
+[2018-05-30 02:33:40,907]  <Cub #73712208 $8379.49 ICEngine AI95 17.691/60L 13.646L/100km 170580.0km>
+[2018-05-30 02:33:40,908]  <Cub #73712336 $8392.723 ICEngine Diesel 51.204/60L 6.184L/100km 153074.0km>
+[2018-05-30 02:33:40,908]  <Cub #73712464 $8491.7515 ICEngine AI95 12.281/60L 12.701L/100km 158763.0km>
+[2018-05-30 02:33:40,908]  <Cub #73712592 $8751.2725 ICEngine AI92 57.812/60L 10.516L/100km 131445.0km>
+[2018-05-30 02:33:40,910]  <Cub #73712720 $9078.2155 ICEngine Diesel 19.286/75L 11.267L/100km 87789.0km>
+[2018-05-30 02:33:40,910]  <Cub #73712848 $9380.372 ICEngine AI95 55.467/60L 13.218L/100km 65224.0km>
+[2018-05-30 02:33:40,910]  <Cub #73712976 $7982.1905 ICEngine AI92 11.339/60L 8.992L/100km 212401.0km>
+[2018-05-30 02:33:40,910]  <Cub #73713104 $8399.38 ICEngine Diesel 30.07/60L 6.146L/100km 152440.0km>
+[2018-05-30 02:33:40,911]  <Cub #73713232 $8173.264 ICEngine AI95 50.443/60L 15.383L/100km 192288.0km>
+[2018-05-30 02:33:40,911]  <Cub #73713360 $9191.417 ICEngine AI95 66.197/75L 14.809L/100km 85114.0km>

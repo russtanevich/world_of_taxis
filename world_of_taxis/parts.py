@@ -29,6 +29,12 @@ class Engine(object):
     def consumption_up(self):
         return self._consumption_up
 
+    def __str__(self):
+        return "{} {}".format(self.__class__.__name__, self.fuel.__name__)
+
+    def __repr__(self):
+        return str(self)
+
 
 class ICEngine(Engine):
     """Internal Combustion Engine"""
@@ -39,6 +45,12 @@ class ICEngine(Engine):
 
     def __init__(self, fuel=_allowed_fuel[0], consumption=_default_consumption, resource=_default_resource):
         super(ICEngine, self).__init__(fuel, consumption, resource)
+
+    def set_gasoline(self, gasoline):
+        if issubclass(self.fuel, fu.Gasoline) and issubclass(gasoline, fu.Gasoline):
+            self._fuel = gasoline
+        else:
+            TypeError("You can change fuel only for Gasoline Engines. But get {} and {}".format(self, petrol))
 
 
 class Tank(object):
@@ -55,7 +67,7 @@ class Tank(object):
 
     @property
     def level(self):
-        return self._level
+        return round(self._level, 3)
 
     @property
     def fill_counter(self):
@@ -77,7 +89,7 @@ class Tachograph(object):
 
     @property
     def distance(self):
-        return self._distance
+        return round(self._distance, 3)
 
     def run(self, km):
         self._distance += km

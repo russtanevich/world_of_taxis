@@ -74,7 +74,8 @@ class ServiceStation(object):
     _price_service = {
         fu.Diesel: 700,
         fu.Gas: 700,
-        fu.Gasoline: 500
+        fu.AI92: 500,
+        fu.AI95: 500
     }
     _price_parts = {
         prt.ICEngine: 3000
@@ -99,20 +100,20 @@ class ServiceStation(object):
         self.change_engine(car)                                             # CHANGE ENGINE
 
     def change_engine(self, car):
-        print(self)
-        engine = type(car.engine)(**car.engine.__dict__)  # THE SAME ENGINE
+        fuel = fu.AI92 if issubclass(car.engine.fuel, fu.Gasoline) else car.engine.fuel
+        engine = type(car.engine)(fuel=fuel, consumption=car.engine.consumption, resource=car.engine.resource)  # THE SAME ENGINE
         car.set_engine(engine)
 
     def bill_overhaul(self, engine):
-        for type_ in type(engine).__mro__:
-            if type_ in self.price_parts:
-                price_engine = self.price_parts[type_]
-                price_service = self.price_service[type_]
-                break
-        else:
-            raise LookupError("NO {} in {}".format(engine, self))
+        for type_engine in type(engine).__mro__:
+            if type_engine in self.price_parts:
+                price_engine = self.price_parts[type_engine]
+                price_service = self.price_service[engine.fuel]
+                return price_service + price_engine
 
-        return price_service + price_engine
+        raise LookupError("NO {} in {}".format(engine, self))
+
+
 
 
 class FuelStation(object):
