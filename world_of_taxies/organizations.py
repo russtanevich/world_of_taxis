@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """Organizations module"""
-
+from settings import logger
 from .cars import Car
 import fuels as fu
 import parts as prt
@@ -18,8 +18,10 @@ class TaxiCompany(object):
         self._cars = set(cars)
         self._balance = balance
 
+        logger.info("[CREATE COMPANY] {}".format(self))
+
     @property
-    def show_cars(self):
+    def cars(self):
         return self._cars
 
     @property
@@ -28,6 +30,7 @@ class TaxiCompany(object):
 
     def pay(self, payment):
         self._balance -= payment
+        logger.info("[PAYMENT] {} -- {}".format(self, payment))
 
     def error_if_not_car(self, car):
         if not isinstance(car, type(self)._CAR_TYPE):
@@ -45,10 +48,23 @@ class TaxiCompany(object):
         self.error_if_not_car(car)
         self.pay(car.price)
         self.add_car(car)
+        car.set_owner(self)
+        logger.info("[BUY CAR] {} -- {}".format(self, car))
 
     def buy_cars(self, *cars):
         for car in cars:
             self.buy_car(car)
+
+    def __str__(self):
+        return "<{} #{}, ${}, {} cars>".format(
+                    type(self).__name__,
+                    id(self),
+                    self.balance,
+                    len(self.cars)
+                )
+
+    def __repr__(self):
+        return str(self)
 
 
 class ServiceStation(object):
@@ -85,7 +101,7 @@ class ServiceStation(object):
     def change_engine(self, car):
         print(self)
         engine = type(car.engine)(**car.engine.__dict__)  # THE SAME ENGINE
-        car._engine = engine
+        car.set_engine(engine)
 
     def bill_overhaul(self, engine):
         for type_ in type(engine).__mro__:

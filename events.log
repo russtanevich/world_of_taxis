@@ -1,0 +1,272 @@
+organizations.py[ln:  21]# INFO     [2018-05-29 20:02:36,795]  [CREATE COMPANY] <TaxiCompany #84975536, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:02:36,795]  [PAYMENT] <TaxiCompany #84975536, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:02:36,795]  [BUY CAR] <TaxiCompany #84975536, $990000.0, 1 cars> -- <Car #84975568 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:02:36,795]  [PAYMENT] <TaxiCompany #84975536, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:02:36,795]  [BUY CAR] <TaxiCompany #84975536, $980000.0, 2 cars> -- <Car #85053488 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:02:36,795]  [PAYMENT] <TaxiCompany #84975536, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:02:36,845]  [BUY CAR] <TaxiCompany #84975536, $970000.0, 3 cars> -- <Car #85053552 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:02:36,845]  [PAYMENT] <TaxiCompany #84975536, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:02:36,845]  [BUY CAR] <TaxiCompany #84975536, $960000.0, 4 cars> -- <Car #85053616 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:02:36,845]  [PAYMENT] <TaxiCompany #84975536, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:02:36,845]  [BUY CAR] <TaxiCompany #84975536, $950000.0, 5 cars> -- <Car #85053680 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:04:47,176]  [CREATE COMPANY] <TaxiCompany #80322608, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:04:47,207]  [PAYMENT] <TaxiCompany #80322608, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:04:47,207]  [BUY CAR] <TaxiCompany #80322608, $990000.0, 1 cars> -- <Car #80322640 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:04:47,207]  [PAYMENT] <TaxiCompany #80322608, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:04:47,207]  [BUY CAR] <TaxiCompany #80322608, $980000.0, 2 cars> -- <Car #80322704 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:04:47,207]  [PAYMENT] <TaxiCompany #80322608, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:04:47,207]  [BUY CAR] <TaxiCompany #80322608, $970000.0, 3 cars> -- <Car #80322768 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:04:47,207]  [PAYMENT] <TaxiCompany #80322608, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:04:47,207]  [BUY CAR] <TaxiCompany #80322608, $960000.0, 4 cars> -- <Car #80322832 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:04:47,207]  [PAYMENT] <TaxiCompany #80322608, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:04:47,207]  [BUY CAR] <TaxiCompany #80322608, $950000.0, 5 cars> -- <Car #80322896 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:05:54,332]  [CREATE COMPANY] <TaxiCompany #86872144, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:05:54,364]  [PAYMENT] <TaxiCompany #86872144, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:05:54,364]  [BUY CAR] <TaxiCompany #86872144, $990000.0, 1 cars> -- <Car #86872176 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:05:54,364]  [PAYMENT] <TaxiCompany #86872144, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:05:54,364]  [BUY CAR] <TaxiCompany #86872144, $980000.0, 2 cars> -- <Car #86872240 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:05:54,364]  [PAYMENT] <TaxiCompany #86872144, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:05:54,364]  [BUY CAR] <TaxiCompany #86872144, $970000.0, 3 cars> -- <Car #86872304 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:05:54,364]  [PAYMENT] <TaxiCompany #86872144, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:05:54,364]  [BUY CAR] <TaxiCompany #86872144, $960000.0, 4 cars> -- <Car #86872368 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:05:54,364]  [PAYMENT] <TaxiCompany #86872144, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:05:54,364]  [BUY CAR] <TaxiCompany #86872144, $950000.0, 5 cars> -- <Car #86872432 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:07:13,334]  [CREATE COMPANY] <TaxiCompany #75731024, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:07:13,380]  [PAYMENT] <TaxiCompany #75731024, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:07:13,380]  [BUY CAR] <TaxiCompany #75731024, $990000.0, 1 cars> -- <Car #75731056 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:07:13,380]  [PAYMENT] <TaxiCompany #75731024, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:07:13,395]  [BUY CAR] <TaxiCompany #75731024, $980000.0, 2 cars> -- <Car #75731120 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:07:13,395]  [PAYMENT] <TaxiCompany #75731024, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:07:13,395]  [BUY CAR] <TaxiCompany #75731024, $970000.0, 3 cars> -- <Car #75731184 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:07:13,395]  [PAYMENT] <TaxiCompany #75731024, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:07:13,395]  [BUY CAR] <TaxiCompany #75731024, $960000.0, 4 cars> -- <Car #75731248 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:07:13,395]  [PAYMENT] <TaxiCompany #75731024, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:07:13,395]  [BUY CAR] <TaxiCompany #75731024, $950000.0, 5 cars> -- <Car #75731312 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:08:02,721]  [CREATE COMPANY] <TaxiCompany #71798864, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:08:02,753]  [PAYMENT] <TaxiCompany #71798864, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:08:02,753]  [BUY CAR] <TaxiCompany #71798864, $990000.0, 1 cars> -- <Car #71798896 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:08:02,753]  [PAYMENT] <TaxiCompany #71798864, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:08:02,753]  [BUY CAR] <TaxiCompany #71798864, $980000.0, 2 cars> -- <Car #71798960 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:08:02,753]  [PAYMENT] <TaxiCompany #71798864, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:08:02,753]  [BUY CAR] <TaxiCompany #71798864, $970000.0, 3 cars> -- <Car #71799024 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:08:02,753]  [PAYMENT] <TaxiCompany #71798864, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:08:02,753]  [BUY CAR] <TaxiCompany #71798864, $960000.0, 4 cars> -- <Car #71799088 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:08:02,753]  [PAYMENT] <TaxiCompany #71798864, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:08:02,753]  [BUY CAR] <TaxiCompany #71798864, $950000.0, 5 cars> -- <Car #71799152 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:10:47,194]  [CREATE COMPANY] <TaxiCompany #78942288, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:10:47,224]  [PAYMENT] <TaxiCompany #78942288, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:10:47,224]  [BUY CAR] <TaxiCompany #78942288, $990000.0, 1 cars> -- <Car #78942320 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:10:47,224]  [PAYMENT] <TaxiCompany #78942288, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:10:47,224]  [BUY CAR] <TaxiCompany #78942288, $980000.0, 2 cars> -- <Car #78942384 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:10:47,224]  [PAYMENT] <TaxiCompany #78942288, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:10:47,224]  [BUY CAR] <TaxiCompany #78942288, $970000.0, 3 cars> -- <Car #78942448 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:10:47,224]  [PAYMENT] <TaxiCompany #78942288, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:10:47,224]  [BUY CAR] <TaxiCompany #78942288, $960000.0, 4 cars> -- <Car #78942512 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:10:47,224]  [PAYMENT] <TaxiCompany #78942288, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:10:47,224]  [BUY CAR] <TaxiCompany #78942288, $950000.0, 5 cars> -- <Car #78942576 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:13:39,811]  [CREATE COMPANY] <TaxiCompany #71143504, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:13:39,842]  [PAYMENT] <TaxiCompany #71143504, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:13:39,842]  [BUY CAR] <TaxiCompany #71143504, $990000.0, 1 cars> -- <Car #71143536 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:13:39,842]  [PAYMENT] <TaxiCompany #71143504, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:13:39,842]  [BUY CAR] <TaxiCompany #71143504, $980000.0, 2 cars> -- <Car #71143600 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:13:39,842]  [PAYMENT] <TaxiCompany #71143504, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:13:39,842]  [BUY CAR] <TaxiCompany #71143504, $970000.0, 3 cars> -- <Car #71143664 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:13:39,842]  [PAYMENT] <TaxiCompany #71143504, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:13:39,842]  [BUY CAR] <TaxiCompany #71143504, $960000.0, 4 cars> -- <Car #71143728 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:13:39,842]  [PAYMENT] <TaxiCompany #71143504, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:13:39,842]  [BUY CAR] <TaxiCompany #71143504, $950000.0, 5 cars> -- <Car #71143792 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:14:32,721]  [CREATE COMPANY] <TaxiCompany #72851504, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:14:32,815]  [PAYMENT] <TaxiCompany #72851504, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:14:32,815]  [BUY CAR] <TaxiCompany #72851504, $990000.0, 1 cars> -- <Car #72851536 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:14:32,815]  [PAYMENT] <TaxiCompany #72851504, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:14:32,815]  [BUY CAR] <TaxiCompany #72851504, $980000.0, 2 cars> -- <Car #72851600 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:14:32,815]  [PAYMENT] <TaxiCompany #72851504, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:14:32,815]  [BUY CAR] <TaxiCompany #72851504, $970000.0, 3 cars> -- <Car #72851664 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:14:32,815]  [PAYMENT] <TaxiCompany #72851504, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:14:32,815]  [BUY CAR] <TaxiCompany #72851504, $960000.0, 4 cars> -- <Car #72851728 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:14:32,815]  [PAYMENT] <TaxiCompany #72851504, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:14:32,815]  [BUY CAR] <TaxiCompany #72851504, $950000.0, 5 cars> -- <Car #72851792 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:15:12,533]  [CREATE COMPANY] <TaxiCompany #82030640, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:15:12,565]  [PAYMENT] <TaxiCompany #82030640, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:15:12,565]  [BUY CAR] <TaxiCompany #82030640, $990000.0, 1 cars> -- <Car #82030672 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:15:12,565]  [PAYMENT] <TaxiCompany #82030640, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:15:12,565]  [BUY CAR] <TaxiCompany #82030640, $980000.0, 2 cars> -- <Car #82030736 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:15:12,565]  [PAYMENT] <TaxiCompany #82030640, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:15:12,565]  [BUY CAR] <TaxiCompany #82030640, $970000.0, 3 cars> -- <Car #82030800 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:15:12,565]  [PAYMENT] <TaxiCompany #82030640, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:15:12,565]  [BUY CAR] <TaxiCompany #82030640, $960000.0, 4 cars> -- <Car #82030864 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:15:12,565]  [PAYMENT] <TaxiCompany #82030640, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:15:12,565]  [BUY CAR] <TaxiCompany #82030640, $950000.0, 5 cars> -- <Car #82030928 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:15:33,568]  [CREATE COMPANY] <TaxiCompany #73900080, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:15:33,598]  [PAYMENT] <TaxiCompany #73900080, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:15:33,598]  [BUY CAR] <TaxiCompany #73900080, $990000.0, 1 cars> -- <Car #73900112 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:15:33,598]  [PAYMENT] <TaxiCompany #73900080, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:15:33,598]  [BUY CAR] <TaxiCompany #73900080, $980000.0, 2 cars> -- <Car #73900176 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:15:33,598]  [PAYMENT] <TaxiCompany #73900080, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:15:33,598]  [BUY CAR] <TaxiCompany #73900080, $970000.0, 3 cars> -- <Car #73900240 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:15:33,598]  [PAYMENT] <TaxiCompany #73900080, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:15:33,598]  [BUY CAR] <TaxiCompany #73900080, $960000.0, 4 cars> -- <Car #73900304 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:15:33,598]  [PAYMENT] <TaxiCompany #73900080, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:15:33,598]  [BUY CAR] <TaxiCompany #73900080, $950000.0, 5 cars> -- <Car #73900368 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:16:17,252]  [CREATE COMPANY] <TaxiCompany #76718128, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:16:17,267]  [PAYMENT] <TaxiCompany #76718128, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:16:17,267]  [BUY CAR] <TaxiCompany #76718128, $990000.0, 1 cars> -- <Car #76718160 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:16:17,267]  [PAYMENT] <TaxiCompany #76718128, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:16:17,267]  [BUY CAR] <TaxiCompany #76718128, $980000.0, 2 cars> -- <Car #76718224 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:16:17,267]  [PAYMENT] <TaxiCompany #76718128, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:16:17,267]  [BUY CAR] <TaxiCompany #76718128, $970000.0, 3 cars> -- <Car #76718288 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:16:17,267]  [PAYMENT] <TaxiCompany #76718128, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:16:17,267]  [BUY CAR] <TaxiCompany #76718128, $960000.0, 4 cars> -- <Car #76718352 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:16:17,267]  [PAYMENT] <TaxiCompany #76718128, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:16:17,267]  [BUY CAR] <TaxiCompany #76718128, $950000.0, 5 cars> -- <Car #76718416 $10000.0 type 60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:17:27,453]  [CREATE COMPANY] <TaxiCompany #74100784, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:17:27,484]  [PAYMENT] <TaxiCompany #74100784, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:17:27,484]  [BUY CAR] <TaxiCompany #74100784, $990000.0, 1 cars> -- <Car #74100816 $10000.0 type 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:17:27,484]  [PAYMENT] <TaxiCompany #74100784, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:17:27,484]  [BUY CAR] <TaxiCompany #74100784, $980000.0, 2 cars> -- <Car #74100880 $10000.0 type 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:17:27,484]  [PAYMENT] <TaxiCompany #74100784, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:17:27,484]  [BUY CAR] <TaxiCompany #74100784, $970000.0, 3 cars> -- <Car #74100944 $10000.0 type 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:17:27,484]  [PAYMENT] <TaxiCompany #74100784, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:17:27,484]  [BUY CAR] <TaxiCompany #74100784, $960000.0, 4 cars> -- <Car #74101008 $10000.0 type 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:17:27,484]  [PAYMENT] <TaxiCompany #74100784, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:17:27,484]  [BUY CAR] <TaxiCompany #74100784, $950000.0, 5 cars> -- <Car #74101072 $10000.0 type 0/60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:18:02,980]  [CREATE COMPANY] <TaxiCompany #84455472, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:18:03,026]  [PAYMENT] <TaxiCompany #84455472, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:18:03,026]  [BUY CAR] <TaxiCompany #84455472, $990000.0, 1 cars> -- <Car #84455504 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:18:03,026]  [PAYMENT] <TaxiCompany #84455472, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:18:03,059]  [BUY CAR] <TaxiCompany #84455472, $980000.0, 2 cars> -- <Car #84455568 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:18:03,073]  [PAYMENT] <TaxiCompany #84455472, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:18:03,073]  [BUY CAR] <TaxiCompany #84455472, $970000.0, 3 cars> -- <Car #84455632 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:18:03,073]  [PAYMENT] <TaxiCompany #84455472, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:18:03,073]  [BUY CAR] <TaxiCompany #84455472, $960000.0, 4 cars> -- <Car #84455696 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:18:03,073]  [PAYMENT] <TaxiCompany #84455472, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:18:03,073]  [BUY CAR] <TaxiCompany #84455472, $950000.0, 5 cars> -- <Car #84455760 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:19:23,084]  [CREATE COMPANY] <TaxiCompany #77635632, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:19:23,115]  [PAYMENT] <TaxiCompany #77635632, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:19:23,115]  [BUY CAR] <TaxiCompany #77635632, $990000.0, 1 cars> -- <Car #77635664 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:19:23,115]  [PAYMENT] <TaxiCompany #77635632, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:19:23,115]  [BUY CAR] <TaxiCompany #77635632, $980000.0, 2 cars> -- <Car #77635728 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:19:23,115]  [PAYMENT] <TaxiCompany #77635632, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:19:23,115]  [BUY CAR] <TaxiCompany #77635632, $970000.0, 3 cars> -- <Car #77635792 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:19:23,115]  [PAYMENT] <TaxiCompany #77635632, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:19:23,115]  [BUY CAR] <TaxiCompany #77635632, $960000.0, 4 cars> -- <Car #77635856 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:19:23,115]  [PAYMENT] <TaxiCompany #77635632, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:19:23,115]  [BUY CAR] <TaxiCompany #77635632, $950000.0, 5 cars> -- <Car #77635920 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:19:31,957]  [CREATE COMPANY] <TaxiCompany #84791344, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:19:31,973]  [PAYMENT] <TaxiCompany #84791344, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:19:31,973]  [BUY CAR] <TaxiCompany #84791344, $990000.0, 1 cars> -- <Car #84791376 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:19:31,973]  [PAYMENT] <TaxiCompany #84791344, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:19:31,973]  [BUY CAR] <TaxiCompany #84791344, $980000.0, 2 cars> -- <Car #84791440 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:19:31,973]  [PAYMENT] <TaxiCompany #84791344, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:19:31,973]  [BUY CAR] <TaxiCompany #84791344, $970000.0, 3 cars> -- <Car #84791504 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:19:31,973]  [PAYMENT] <TaxiCompany #84791344, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:19:31,973]  [BUY CAR] <TaxiCompany #84791344, $960000.0, 4 cars> -- <Car #84791568 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:19:31,973]  [PAYMENT] <TaxiCompany #84791344, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:19:31,973]  [BUY CAR] <TaxiCompany #84791344, $950000.0, 5 cars> -- <Car #84791632 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:21:02,915]  [CREATE COMPANY] <TaxiCompany #74817584, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:21:02,947]  [PAYMENT] <TaxiCompany #74817584, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:21:02,947]  [BUY CAR] <TaxiCompany #74817584, $990000.0, 1 cars> -- <Car #74817616 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:21:02,947]  [PAYMENT] <TaxiCompany #74817584, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:21:02,947]  [BUY CAR] <TaxiCompany #74817584, $980000.0, 2 cars> -- <Car #74817680 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:21:02,947]  [PAYMENT] <TaxiCompany #74817584, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:21:02,947]  [BUY CAR] <TaxiCompany #74817584, $970000.0, 3 cars> -- <Car #74817744 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:21:02,947]  [PAYMENT] <TaxiCompany #74817584, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:21:02,947]  [BUY CAR] <TaxiCompany #74817584, $960000.0, 4 cars> -- <Car #74817808 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:21:02,947]  [PAYMENT] <TaxiCompany #74817584, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  51]# INFO     [2018-05-29 20:21:02,947]  [BUY CAR] <TaxiCompany #74817584, $950000.0, 5 cars> -- <Car #74817872 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  21]# INFO     [2018-05-29 20:23:29,167]  [CREATE COMPANY] <TaxiCompany #71917648, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:23:29,198]  [PAYMENT] <TaxiCompany #71917648, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:23:29,213]  [BUY CAR] <TaxiCompany #71917648, $990000.0, 1 cars> -- <Car #71917680 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:23:29,230]  [PAYMENT] <TaxiCompany #71917648, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:23:29,260]  [BUY CAR] <TaxiCompany #71917648, $980000.0, 2 cars> -- <Car #71917744 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:23:29,260]  [PAYMENT] <TaxiCompany #71917648, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:23:29,260]  [BUY CAR] <TaxiCompany #71917648, $970000.0, 3 cars> -- <Car #71917808 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:23:29,260]  [PAYMENT] <TaxiCompany #71917648, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:23:29,260]  [BUY CAR] <TaxiCompany #71917648, $960000.0, 4 cars> -- <Car #71917872 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:23:29,260]  [PAYMENT] <TaxiCompany #71917648, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:23:29,260]  [BUY CAR] <TaxiCompany #71917648, $950000.0, 5 cars> -- <Car #71917936 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:23:29,260]  [PAYMENT] <TaxiCompany #71917648, $949892.0, 5 cars> -- 108.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:23:29,260]  [PAYMENT] <TaxiCompany #71917648, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:23:29,260]  [PAYMENT] <TaxiCompany #71917648, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:23:29,260]  [PAYMENT] <TaxiCompany #71917648, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:23:29,260]  [PAYMENT] <TaxiCompany #71917648, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  21]# INFO     [2018-05-29 20:26:05,760]  [CREATE COMPANY] <TaxiCompany #79204496, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:26:05,776]  [PAYMENT] <TaxiCompany #79204496, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:26:05,776]  [BUY CAR] <TaxiCompany #79204496, $990000.0, 1 cars> -- <Car #79204528 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:26:05,776]  [PAYMENT] <TaxiCompany #79204496, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:26:05,776]  [BUY CAR] <TaxiCompany #79204496, $980000.0, 2 cars> -- <Car #79204592 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:26:05,776]  [PAYMENT] <TaxiCompany #79204496, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:26:05,776]  [BUY CAR] <TaxiCompany #79204496, $970000.0, 3 cars> -- <Car #79204656 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:26:05,776]  [PAYMENT] <TaxiCompany #79204496, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:26:05,776]  [BUY CAR] <TaxiCompany #79204496, $960000.0, 4 cars> -- <Car #79204720 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:26:05,776]  [PAYMENT] <TaxiCompany #79204496, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:26:05,776]  [BUY CAR] <TaxiCompany #79204496, $950000.0, 5 cars> -- <Car #79204784 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:26:05,776]  [PAYMENT] <TaxiCompany #79204496, $949892.0, 5 cars> -- 108.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:26:05,776]  [PAYMENT] <TaxiCompany #79204496, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:26:05,776]  [PAYMENT] <TaxiCompany #79204496, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:26:05,776]  [PAYMENT] <TaxiCompany #79204496, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:26:05,776]  [PAYMENT] <TaxiCompany #79204496, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  21]# INFO     [2018-05-29 20:27:01,364]  [CREATE COMPANY] <TaxiCompany #81236144, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:27:01,394]  [PAYMENT] <TaxiCompany #81236144, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:27:01,394]  [BUY CAR] <TaxiCompany #81236144, $990000.0, 1 cars> -- <Car #81236176 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:27:01,394]  [PAYMENT] <TaxiCompany #81236144, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:27:01,394]  [BUY CAR] <TaxiCompany #81236144, $980000.0, 2 cars> -- <Car #81236240 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:27:01,394]  [PAYMENT] <TaxiCompany #81236144, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:27:01,394]  [BUY CAR] <TaxiCompany #81236144, $970000.0, 3 cars> -- <Car #81236304 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:27:01,394]  [PAYMENT] <TaxiCompany #81236144, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:27:01,394]  [BUY CAR] <TaxiCompany #81236144, $960000.0, 4 cars> -- <Car #81236368 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:27:01,394]  [PAYMENT] <TaxiCompany #81236144, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:27:01,394]  [BUY CAR] <TaxiCompany #81236144, $950000.0, 5 cars> -- <Car #81236432 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:27:01,394]  [PAYMENT] <TaxiCompany #81236144, $949892.0, 5 cars> -- 108.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:27:01,394]  [PAYMENT] <TaxiCompany #81236144, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:27:01,394]  [PAYMENT] <TaxiCompany #81236144, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:27:01,411]  [PAYMENT] <TaxiCompany #81236144, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:27:01,411]  [PAYMENT] <TaxiCompany #81236144, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  21]# INFO     [2018-05-29 20:29:22,661]  [CREATE COMPANY] <TaxiCompany #75346096, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:22,677]  [PAYMENT] <TaxiCompany #75346096, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:29:22,677]  [BUY CAR] <TaxiCompany #75346096, $990000.0, 1 cars> -- <Car #75346128 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:22,677]  [PAYMENT] <TaxiCompany #75346096, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:29:22,677]  [BUY CAR] <TaxiCompany #75346096, $980000.0, 2 cars> -- <Car #75346192 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:22,677]  [PAYMENT] <TaxiCompany #75346096, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:29:22,677]  [BUY CAR] <TaxiCompany #75346096, $970000.0, 3 cars> -- <Car #75346256 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:22,677]  [PAYMENT] <TaxiCompany #75346096, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:29:22,677]  [BUY CAR] <TaxiCompany #75346096, $960000.0, 4 cars> -- <Car #75346320 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:22,677]  [PAYMENT] <TaxiCompany #75346096, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:29:22,677]  [BUY CAR] <TaxiCompany #75346096, $950000.0, 5 cars> -- <Car #75346384 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:22,677]  [PAYMENT] <TaxiCompany #75346096, $949892.0, 5 cars> -- 108.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:22,677]  [PAYMENT] <TaxiCompany #75346096, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:22,677]  [PAYMENT] <TaxiCompany #75346096, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:22,677]  [PAYMENT] <TaxiCompany #75346096, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:22,677]  [PAYMENT] <TaxiCompany #75346096, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  21]# INFO     [2018-05-29 20:29:34,125]  [CREATE COMPANY] <TaxiCompany #77508784, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:34,141]  [PAYMENT] <TaxiCompany #77508784, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:29:34,141]  [BUY CAR] <TaxiCompany #77508784, $990000.0, 1 cars> -- <Car #77508816 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:34,141]  [PAYMENT] <TaxiCompany #77508784, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:29:34,141]  [BUY CAR] <TaxiCompany #77508784, $980000.0, 2 cars> -- <Car #77508880 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:34,141]  [PAYMENT] <TaxiCompany #77508784, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:29:34,141]  [BUY CAR] <TaxiCompany #77508784, $970000.0, 3 cars> -- <Car #77508944 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:34,141]  [PAYMENT] <TaxiCompany #77508784, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:29:34,141]  [BUY CAR] <TaxiCompany #77508784, $960000.0, 4 cars> -- <Car #77509008 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:34,141]  [PAYMENT] <TaxiCompany #77508784, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:29:34,141]  [BUY CAR] <TaxiCompany #77508784, $950000.0, 5 cars> -- <Car #77509072 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:34,141]  [PAYMENT] <TaxiCompany #77508784, $949892.0, 5 cars> -- 108.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:34,141]  [PAYMENT] <TaxiCompany #77508784, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:34,141]  [PAYMENT] <TaxiCompany #77508784, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:34,141]  [PAYMENT] <TaxiCompany #77508784, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:29:34,141]  [PAYMENT] <TaxiCompany #77508784, $949892.0, 5 cars> -- 0.0
+organizations.py[ln:  21]# INFO     [2018-05-29 20:34:18,561]  [CREATE COMPANY] <TaxiCompany #72724592, $1000000, 0 cars>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:34:18,592]  [PAYMENT] <TaxiCompany #72724592, $990000.0, 0 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:34:18,592]  [BUY CAR] <TaxiCompany #72724592, $990000.0, 1 cars> -- <Car #72724624 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:34:18,592]  [PAYMENT] <TaxiCompany #72724592, $980000.0, 1 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:34:18,592]  [BUY CAR] <TaxiCompany #72724592, $980000.0, 2 cars> -- <Car #72724752 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:34:18,592]  [PAYMENT] <TaxiCompany #72724592, $970000.0, 2 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:34:18,592]  [BUY CAR] <TaxiCompany #72724592, $970000.0, 3 cars> -- <Car #72724880 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:34:18,592]  [PAYMENT] <TaxiCompany #72724592, $960000.0, 3 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:34:18,592]  [BUY CAR] <TaxiCompany #72724592, $960000.0, 4 cars> -- <Car #72725008 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:34:18,592]  [PAYMENT] <TaxiCompany #72724592, $950000.0, 4 cars> -- 10000.0
+organizations.py[ln:  52]# INFO     [2018-05-29 20:34:18,592]  [BUY CAR] <TaxiCompany #72724592, $950000.0, 5 cars> -- <Car #72725136 $10000.0 Diesel 0/60L 8.0L/100km 0km>
+organizations.py[ln:  33]# INFO     [2018-05-29 20:34:18,592]  [PAYMENT] <TaxiCompany #72724592, $949892.0, 5 cars> -- 108.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:34:18,592]  [PAYMENT] <TaxiCompany #72724592, $949784.0, 5 cars> -- 108.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:34:18,592]  [PAYMENT] <TaxiCompany #72724592, $949676.0, 5 cars> -- 108.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:34:18,592]  [PAYMENT] <TaxiCompany #72724592, $949568.0, 5 cars> -- 108.0
+organizations.py[ln:  33]# INFO     [2018-05-29 20:34:18,592]  [PAYMENT] <TaxiCompany #72724592, $949460.0, 5 cars> -- 108.0

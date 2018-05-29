@@ -7,10 +7,11 @@ from . import fuels as fu
 class Engine(object):
     """Auto engine class"""
 
-    def __init__(self, fuel, consumption, resource):
+    def __init__(self, fuel=fu.Gasoline, consumption=8, resource=200000, consumption_up=0.01/1000):
         self._fuel = fuel
         self._consumption = consumption
         self._resource = resource
+        self._consumption_up = consumption_up
 
     @property
     def fuel(self):
@@ -23,6 +24,10 @@ class Engine(object):
     @property
     def resource(self):
         return self._resource
+
+    @property
+    def consumption_up(self):
+        return self._consumption_up
 
 
 class ICEngine(Engine):
@@ -39,7 +44,7 @@ class ICEngine(Engine):
 class Tank(object):
     """A car tank class"""
 
-    def __init__(self, volume, level=0):
+    def __init__(self, volume=60, level=0):
         self._volume = volume
         self._level = level
         self._fill_counter = 0

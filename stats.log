@@ -1,0 +1,85 @@
+[2018-05-29 20:05:54,364]  <Car #86872176 $0.0 type 60L 80008.0L/100km 1000000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x05250DB0>, refuel: <world_of_taxies.parts.Tank object at 0x05250990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:05:54,364]  <Car #86872240 $0.0 type 60L 80008.0L/100km 1000000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x05250DB0>, refuel: <world_of_taxies.parts.Tank object at 0x05250990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:05:54,364]  <Car #86872304 $0.0 type 60L 80008.0L/100km 1000000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x05250DB0>, refuel: <world_of_taxies.parts.Tank object at 0x05250990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:05:54,395]  <Car #86872368 $0.0 type 60L 80008.0L/100km 1000000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x05250DB0>, refuel: <world_of_taxies.parts.Tank object at 0x05250990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:05:54,395]  <Car #86872432 $0.0 type 60L 80008.0L/100km 1000000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x05250DB0>, refuel: <world_of_taxies.parts.Tank object at 0x05250990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:07:13,395]  <Car #75731056 $9900.0 type 60L 808.0L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x047B0DB0>, refuel: <world_of_taxies.parts.Tank object at 0x047B0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:07:13,427]  <Car #75731120 $9900.0 type 60L 808.0L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x047B0DB0>, refuel: <world_of_taxies.parts.Tank object at 0x047B0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:07:13,427]  <Car #75731184 $9900.0 type 60L 808.0L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x047B0DB0>, refuel: <world_of_taxies.parts.Tank object at 0x047B0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:07:13,427]  <Car #75731248 $9900.0 type 60L 808.0L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x047B0DB0>, refuel: <world_of_taxies.parts.Tank object at 0x047B0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:07:13,427]  <Car #75731312 $9900.0 type 60L 808.0L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x047B0DB0>, refuel: <world_of_taxies.parts.Tank object at 0x047B0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:08:02,753]  <Car #71798896 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043F0850>, refuel: <world_of_taxies.parts.Tank object at 0x043F0ED0> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:08:02,785]  <Car #71798960 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043F0850>, refuel: <world_of_taxies.parts.Tank object at 0x043F0ED0> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:08:02,785]  <Car #71799024 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043F0850>, refuel: <world_of_taxies.parts.Tank object at 0x043F0ED0> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:08:02,785]  <Car #71799088 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043F0850>, refuel: <world_of_taxies.parts.Tank object at 0x043F0ED0> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:08:02,785]  <Car #71799152 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043F0850>, refuel: <world_of_taxies.parts.Tank object at 0x043F0ED0> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:10:47,224]  <Car #78942320 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x04B49210>, refuel: <world_of_taxies.parts.Tank object at 0x04AC0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:10:47,256]  <Car #78942384 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x04B49230>, refuel: <world_of_taxies.parts.Tank object at 0x04AC0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:10:47,256]  <Car #78942448 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x04B49250>, refuel: <world_of_taxies.parts.Tank object at 0x04AC0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:10:47,256]  <Car #78942512 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x04B49270>, refuel: <world_of_taxies.parts.Tank object at 0x04AC0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:10:47,256]  <Car #78942576 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x04B49290>, refuel: <world_of_taxies.parts.Tank object at 0x04AC0990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:13:39,842]  <Car #71143536 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043D9210>, refuel: <world_of_taxies.parts.Tank object at 0x0435F990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:13:39,872]  <Car #71143600 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043D9230>, refuel: <world_of_taxies.parts.Tank object at 0x0435F990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:13:39,872]  <Car #71143664 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043D9250>, refuel: <world_of_taxies.parts.Tank object at 0x0435F990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:13:39,872]  <Car #71143728 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043D9270>, refuel: <world_of_taxies.parts.Tank object at 0x0435F990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:13:39,872]  <Car #71143792 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $<world_of_taxies.parts.ICEngine object at 0x043D9290>, refuel: <world_of_taxies.parts.Tank object at 0x0435F990> times, left_to_util <class 'world_of_taxies.fuels.Diesel'>km
+[2018-05-29 20:14:32,832]  <Car #72851536 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
+[2018-05-29 20:14:32,848]  <Car #72851600 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
+[2018-05-29 20:14:32,848]  <Car #72851664 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
+[2018-05-29 20:14:32,848]  <Car #72851728 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
+[2018-05-29 20:14:32,848]  <Car #72851792 $9900.0 type 60L 8.8L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
+[2018-05-29 20:15:12,565]  <Car #82030672 $9900.0 type 60L 8.0L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
+[2018-05-29 20:15:12,595]  <Car #82030736 $9900.0 type 60L 8.0L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
+[2018-05-29 20:15:12,595]  <Car #82030800 $9900.0 type 60L 8.0L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
+[2018-05-29 20:15:12,595]  <Car #82030864 $9900.0 type 60L 8.0L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
+[2018-05-29 20:15:12,595]  <Car #82030928 $9900.0 type 60L 8.0L/100km 10000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 0km
+[2018-05-29 20:15:33,598]  <Car #73900112 $9800.0 type 60L 8.8L/100km 20000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 10000km
+[2018-05-29 20:15:33,630]  <Car #73900176 $9800.0 type 60L 8.8L/100km 20000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 10000km
+[2018-05-29 20:15:33,630]  <Car #73900240 $9800.0 type 60L 8.8L/100km 20000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 10000km
+[2018-05-29 20:15:33,630]  <Car #73900304 $9800.0 type 60L 8.8L/100km 20000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 10000km
+[2018-05-29 20:15:33,630]  <Car #73900368 $9800.0 type 60L 8.8L/100km 20000km> spent_fuel: $10000, refuel: 210000 times, left_to_util 10000km
+[2018-05-29 20:16:17,267]  <Car #76718160 $9800.0 type 60L 8.8L/100km 20000km>
+[2018-05-29 20:16:17,299]  <Car #76718224 $9800.0 type 60L 8.8L/100km 20000km>
+[2018-05-29 20:16:17,299]  <Car #76718288 $9800.0 type 60L 8.8L/100km 20000km>
+[2018-05-29 20:16:17,299]  <Car #76718352 $9800.0 type 60L 8.8L/100km 20000km>
+[2018-05-29 20:16:17,299]  <Car #76718416 $9800.0 type 60L 8.8L/100km 20000km>
+[2018-05-29 20:17:27,484]  <Car #74100816 $9800.0 type 0/60L 8.8L/100km 20000km>
+[2018-05-29 20:17:27,516]  <Car #74100880 $9800.0 type 0/60L 8.8L/100km 20000km>
+[2018-05-29 20:17:27,516]  <Car #74100944 $9800.0 type 0/60L 8.8L/100km 20000km>
+[2018-05-29 20:17:27,516]  <Car #74101008 $9800.0 type 0/60L 8.8L/100km 20000km>
+[2018-05-29 20:17:27,516]  <Car #74101072 $9800.0 type 0/60L 8.8L/100km 20000km>
+[2018-05-29 20:18:03,073]  <Car #84455504 $9800.0 Diesel 0/60L 8.8L/100km 20000km>
+[2018-05-29 20:18:03,137]  <Car #84455568 $9800.0 Diesel 0/60L 8.8L/100km 20000km>
+[2018-05-29 20:18:03,137]  <Car #84455632 $9800.0 Diesel 0/60L 8.8L/100km 20000km>
+[2018-05-29 20:18:03,151]  <Car #84455696 $9800.0 Diesel 0/60L 8.8L/100km 20000km>
+[2018-05-29 20:18:03,151]  <Car #84455760 $9800.0 Diesel 0/60L 8.8L/100km 20000km>
+[2018-05-29 20:23:29,260]  <Car #71917680 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
+[2018-05-29 20:23:29,292]  <Car #71917744 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
+[2018-05-29 20:23:29,292]  <Car #71917808 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
+[2018-05-29 20:23:29,292]  <Car #71917872 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
+[2018-05-29 20:23:29,292]  <Car #71917936 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
+[2018-05-29 20:26:05,776]  <Car #79204528 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04B009F0>
+[2018-05-29 20:26:05,801]  <Car #79204592 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04B009F0>
+[2018-05-29 20:26:05,802]  <Car #79204656 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04B009F0>
+[2018-05-29 20:26:05,803]  <Car #79204720 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04B009F0>
+[2018-05-29 20:26:05,803]  <Car #79204784 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04B009F0>
+[2018-05-29 20:27:01,411]  <Car #81236176 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04CF0A10>. <world_of_taxies.parts.ICEngine object at 0x04D792B0>
+[2018-05-29 20:27:01,426]  <Car #81236240 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04CF0A10>. <world_of_taxies.parts.ICEngine object at 0x04D792D0>
+[2018-05-29 20:27:01,426]  <Car #81236304 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04CF0A10>. <world_of_taxies.parts.ICEngine object at 0x04D792F0>
+[2018-05-29 20:27:01,426]  <Car #81236368 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04CF0A10>. <world_of_taxies.parts.ICEngine object at 0x04D79310>
+[2018-05-29 20:27:01,426]  <Car #81236432 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04CF0A10>. <world_of_taxies.parts.ICEngine object at 0x04D79330>
+[2018-05-29 20:29:22,677]  <Car #75346128 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04760A10>. <world_of_taxies.parts.ICEngine object at 0x047DB2B0>
+[2018-05-29 20:29:22,709]  <Car #75346192 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04760A10>. <world_of_taxies.parts.ICEngine object at 0x047DB2D0>
+[2018-05-29 20:29:22,709]  <Car #75346256 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04760A10>. <world_of_taxies.parts.ICEngine object at 0x047DB2F0>
+[2018-05-29 20:29:22,709]  <Car #75346320 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04760A10>. <world_of_taxies.parts.ICEngine object at 0x047DB310>
+[2018-05-29 20:29:22,709]  <Car #75346384 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04760A10>. <world_of_taxies.parts.ICEngine object at 0x047DB330>
+[2018-05-29 20:29:34,141]  <Car #77508816 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04970A10>. <world_of_taxies.parts.ICEngine object at 0x049EB2B0>
+[2018-05-29 20:29:34,171]  <Car #77508880 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04970A10>. <world_of_taxies.parts.ICEngine object at 0x049EB2D0>
+[2018-05-29 20:29:34,171]  <Car #77508944 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04970A10>. <world_of_taxies.parts.ICEngine object at 0x049EB2F0>
+[2018-05-29 20:29:34,171]  <Car #77509008 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04970A10>. <world_of_taxies.parts.ICEngine object at 0x049EB310>
+[2018-05-29 20:29:34,171]  <Car #77509072 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x04970A10>. <world_of_taxies.parts.ICEngine object at 0x049EB330>
+[2018-05-29 20:34:18,592]  <Car #72724624 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B0D0>. <world_of_taxies.parts.ICEngine object at 0x0455B3B0>
+[2018-05-29 20:34:18,622]  <Car #72724752 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B150>. <world_of_taxies.parts.ICEngine object at 0x0455B0B0>
+[2018-05-29 20:34:18,622]  <Car #72724880 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B1D0>. <world_of_taxies.parts.ICEngine object at 0x0455B130>
+[2018-05-29 20:34:18,622]  <Car #72725008 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B250>. <world_of_taxies.parts.ICEngine object at 0x0455B1B0>
+[2018-05-29 20:34:18,622]  <Car #72725136 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B2D0>. <world_of_taxies.parts.ICEngine object at 0x0455B230>
