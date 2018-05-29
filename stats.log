@@ -83,3 +83,8 @@
 [2018-05-29 20:34:18,622]  <Car #72724880 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B1D0>. <world_of_taxies.parts.ICEngine object at 0x0455B130>
 [2018-05-29 20:34:18,622]  <Car #72725008 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B250>. <world_of_taxies.parts.ICEngine object at 0x0455B1B0>
 [2018-05-29 20:34:18,622]  <Car #72725136 $9800.0 Diesel 60/60L 8.8L/100km 20000km>, <world_of_taxies.parts.Tank object at 0x0455B2D0>. <world_of_taxies.parts.ICEngine object at 0x0455B230>
+[2018-05-29 20:38:42,082]  <Car #75853936 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
+[2018-05-29 20:38:42,114]  <Car #75854064 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
+[2018-05-29 20:38:42,114]  <Car #75854192 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
+[2018-05-29 20:38:42,114]  <Car #75854320 $9800.0 Diesel 60/60L 8.8L/100km 20000km>
+[2018-05-29 20:38:42,114]  <Car #75854448 $9800.0 Diesel 60/60L 8.8L/100km 20000km>

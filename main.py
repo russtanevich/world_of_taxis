@@ -2,7 +2,7 @@
 """TEST module"""
 
 
-from world_of_taxies import cars, fuels, organizations, parts, settings
+from world_of_taxis import cars, fuels, organizations, parts, settings
 
 
 autos = [cars.Car(price=10000) for i in range(5)]
